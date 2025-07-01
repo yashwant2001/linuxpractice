@@ -1,0 +1,2 @@
+# linuxpractice
+linux practice codes
